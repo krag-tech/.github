@@ -1,12 +1,10 @@
-<header>
-    <div style="display:flex; justify-content: center; align-items: center;">
-        <img src="./images/logo.png" width="100px">
-        <div style="font-size: 2.5rem; margin-left: 10px;">KRAG Tech</div>
-    </div>
-    <div style="display:flex; justify-content: center; align-items: center; font-size: 1rem; margin-top: 2px; margin-bottom: 20px;">
-        <i>Never stop to invent, explore the space</i>
-    </div>
-</header>
+<div style="display:flex; justify-content: center; align-items: center;">
+    <img src="./images/logo.png" width="100px">
+    <div style="font-size: 2.5rem; margin-left: 10px;">KRAG Tech</div>
+</div>
+<div style="display:flex; justify-content: center; align-items: center; font-size: 1rem; margin-top: 2px; margin-bottom: 20px;">
+    <i>Never stop to invent, explore the space</i>
+</div>
 
 Leading new inventors expanding our network all around of the world to leap the next biggest step for the mankind.
 
